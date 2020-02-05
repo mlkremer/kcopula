@@ -21,7 +21,7 @@
 #'     Chetalova, D., Wollschläger, M., and Schäfer, R. (2015).
 #'     Dependence structure of market states.
 #'     \emph{Journal of Statistical Mechanics: Theory and Experiment},
-#'     2015(8):P08012. \url{https://doi.org/10.1088/1742-5468/2015/08/P08012}.
+#'     2015(8):P08012. <DOI:10.1088/1742-5468/2015/08/P08012>.
 #'     arXiv version: \url{https://arxiv.org/abs/1503.09004}.
 #'
 #' @seealso Useful links:
