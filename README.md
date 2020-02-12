@@ -7,10 +7,6 @@ It provides two functions:
 * `dkcopula()` gives the density of the bivariate K-copula.
 
 ## Installation
-Install release version from CRAN:
-```r
-install.packages("kcopula")
-```
 Install development version from GitHub:
 ```r
 # install.packages("devtools")
